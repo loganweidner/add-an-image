@@ -8,3 +8,5 @@ I can write some text. This is not formatted at all.
 - bulleted
 - list
 * this (*) works too
+
+## New Section
